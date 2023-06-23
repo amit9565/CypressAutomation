@@ -1,0 +1,11 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=14979
+END=15760
+title=Testing login for a standard user A standard user should be able to login to SwagLabs
+[CHAPTER]
+TIMEBASE=1/1000
+START=16131
+END=16873
+title=Testing login for a standard user A standard user should be not able to login to SwagLabs

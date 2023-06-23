@@ -1,0 +1,19 @@
+{
+  "usernameField": "[data-test='username']",
+  "passwordField": "[data-test='password']",
+  "loginButton": "[data-test='login-button']",
+  "productTitle": ".title",
+  "alert": "h3",
+  "username": ["standard_user","locked_out_user","problem_user","performance_glitch_user"],
+  "password": "secret_sauce",
+  "productPageLogo":".app_logo",
+  "productPageTitle":".title",
+  "productPageList":".inventory_item",
+  "productPagePrices":".inventory_item_price",
+  "productPageAddtocartButton":"button[class = 'btn btn_primary btn_small btn_inventory']",
+  "productPageShoppingcartBadge":".shopping_cart_badge",
+  "productPageItemname":"div[class = 'inventory_item_name']",
+  "productName":["Backpack","Bike Light","T-Shirt","Jacket","Onesie","T-Shirt(Red)"],
+  "productPageShoppingCart": ".shopping_cart_link"
+  
+}
